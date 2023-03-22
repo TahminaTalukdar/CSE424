@@ -1,17 +1,18 @@
 Link to unlisted YouTube video:
-https://youtube.com/.....
+https://www.youtube.com/playlist?list=PLvCuaWdD--LnA11bSj8pd8saCWPzwtqnh
 
 Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/.....
+https://docs.google.com/presentation/d/1_j-jhPstYFu9UacGsgi8T5nkCJxBZFCU/edit?usp=sharing&ouid=114469737452699733783&rtpof=true&sd=true
 
 Paper title:
-NLP using ANN
+Global Vectors for Word Representation
 
 Link to the paper:
-https://ieeexplore......
+https://nlp.stanford.edu/pubs/glove.pdf?fbclid=IwAR1kGwsN5nMO28zyHrLgvHAlzzXaHMfHJgNo4A9hCJHTpOAWSPZpAXSrweU
 
 Group Number:
-0
+17
 
 Individual Submitter:
-12345678 Name A
+ID: 20301412
+Name: Tahmina Talukdar
