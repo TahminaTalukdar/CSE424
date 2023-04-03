@@ -1,35 +1,20 @@
 Overleaf link with edit access to ST, RA and my gmail.
-https://www.overleaf.com/project/....
+https://www.overleaf.com/project/64135c3a3370df5759e7e96a
 
-Unlisted YouTube video:
-http://youtube....
+Link to unlisted YouTube video:
+https://www.youtube.com/watch?v=09jwwSJUBwY&feature=youtu.be&ab_channel=ShowmickKar
 
-Conference submitted paper / paper submission / login Link:
-https://easy....
+Public link to the slide (Anyone on the internet can view without login):
+https://docs.google.com/presentation/d/1Fsfa61Jbi3Ca-fynbbky1KPSZf9kkwx8vwBDwG2RXqI/edit?usp=sharing
 
-Paper title:
-Partially automated exam answer script checking for Intro to Marketing
-
-Paper presentation (anyone can view without login):
-http://slides.google.com/
-
-Paper submission date (to workshop/conference):
-25 October 1999
-
-Paper submission ID: (received) from conference/workshop
-1341234
-
-Conference Name:
-2005 International Conference on Quantum Pattern Recognition for Natural Language Processing: Techniques and Practices
-
-Conference URL:
-http://confsite/...
+Project title:
+Twitter Hate Speech Detection
 
 Group Number:
-0
+17
 
 Group Members:
-12345678 Name A
-23456789 Name B
-34567890 Name C
-45678901 Name D
+20301177 Showmick kar
+20301190 Sajidul Islam khandaker
+20301412 Tahmina Talukdar
+20301162 Md.Shakil Anawar
